@@ -9,7 +9,7 @@
     define('APPROOT', dirname(dirname(__FILE__)));
 
     //URLROOT (Dynamic links)
-    define('URLROOT', 'http://www.mvcworkbench.nl/');
+    define('URLROOT', 'http://www.mvc-toets.org/');
 
     //Sitename
     define('SITENAME', 'MVC Framework');

@@ -7,3 +7,4 @@ foreach ($data['users'] as $user) {
 */
 ?>
 <a href="<?=URLROOT;?>fruits/index">Fruit</a>
+<a href="<?=URLROOT;?>countries/index">Countries</a>
